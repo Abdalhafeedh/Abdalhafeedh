@@ -38,7 +38,7 @@
 
 I am a **Computer Science (Data Science) student** with a strong focus on **Artificial Intelligence, Machine Learning, and full-stack development**.
 
-I don’t just build models  I build **complete systems** around them:
+I don’t just build models — I build **complete systems** around them:
 from data preprocessing and training to deployment and user-facing applications.
 
 **What drives me**
@@ -70,7 +70,7 @@ from data preprocessing and training to deployment and user-facing applications.
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,figma,numpy,flutter,react,html,css,js,nodejs,flask,django,mysql,postgres,docker,git,github,linux,aws,firebase&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,flutter,figma,react,html,css,js,nodejs,flask,django,mysql,postgres,docker,git,github,linux,aws,firebase&perline=8" />
   </a>
 </div>
 
